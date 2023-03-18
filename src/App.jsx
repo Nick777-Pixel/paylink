@@ -64,12 +64,12 @@ const App = () => {
 
       <footer className="text--center py--3">
         <a
-          href="https://github.com/dlcastillop/paylink"
+          href="https://github.com/"
           target="_blank"
           className="paylink-link text-decoration--none"
         >
           <sub>
-            Powered by <b>PayLink</b>
+            Powered by <b>Appmuno</b>
           </sub>
         </a>
       </footer>

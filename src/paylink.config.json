@@ -2,9 +2,9 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
+    "name": "Nick T",
     "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
+    "alt": "Photo of Nick T",
     "hero": "./images/daniel-castillo.png"
   },
 
@@ -12,32 +12,32 @@
     {
       "label": "Email",
       "value": "bx-envelope",
-      "link": "mailto:dlcastillo3015@gmail.com"
+      "link": "mailto:support@appmuno.com"
     },
     {
       "label": "Link",
       "value": "bx-link",
-      "link": "https://dlcastillop.vercel.app"
+      "link": "https://mypaylink.vercel.app"
     },
     {
       "label": "GitHub",
       "value": "bxl-github",
-      "link": "https://github.com/dlcastillop"
+      "link": "https://github.com/"
     },
     {
       "label": "Twitter",
       "value": "bxl-twitter",
-      "link": "https://twitter.com/dlcastillop"
+      "link": "https://twitter.com/"
     },
     {
       "label": "LinkedIn",
       "value": "bxl-linkedin",
-      "link": "https://linkedin.com/in/dlcastillop"
+      "link": "https://linkedin.com/"
     },
     {
       "label": "Instagram",
       "value": "bxl-instagram",
-      "link": "https://instagram.com/dlcastillop"
+      "link": "https://instagram.com/"
     },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
